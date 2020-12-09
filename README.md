@@ -45,4 +45,4 @@ To start the backend server again run `python run.py` in the `/backend` director
 
 
 ##### Questions/Concerns
-If you have any questions or problems setting up the local environment you can email *jerrykuo820@gmail.com"
+If you have any questions or problems setting up the local environment you can email jerrykuo820@gmail.com
